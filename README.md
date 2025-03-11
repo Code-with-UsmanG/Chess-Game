@@ -11,6 +11,7 @@ With **nearly 7,000 lines of code**, this project was a deep dive into **logic b
 ✔️ **Valid move enforcement based on chess rules**  
 ✔️ **Pawn Promotion**  
 ✔️ **Console-based UI with a clear board representation**  
+✔️ **Game state saving and loading using File Handling**
 
 ### **Technologies Used**  
 - **C++**  
